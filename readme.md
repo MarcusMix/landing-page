@@ -1,1 +1,1 @@
-Olá, landing page desenvolvidom com o intuito de aprendizado :)
+Olá, landing page desenvolvido com o intuito de aprendizado :)
